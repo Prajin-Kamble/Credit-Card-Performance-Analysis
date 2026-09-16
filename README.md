@@ -98,5 +98,5 @@ The goal of this dashboard is to provide a comprehensive analytical view of cred
     - Cashback offers
     - Category-based rewards (fuel, bills, travel)
 
-![Snapshot of Power BI dashboard](https://github.com/Prajin-Kamble/Credit-Card-Performance-Analysis/blob/main/Dashboard/screenshot%20of%20transaction%20dashboard.JPG)
+![Snapshot of Power BI dashboard](https://github.com/Prajin-Kamble/Credit-Card-Performance-Analysis/blob/main/Dashboard/screenshot%20of%20transaction%20dashboard.JPG)<br>
 ![Snapshot of Power BI dashboard](https://github.com/Prajin-Kamble/Credit-Card-Performance-Analysis/blob/main/Dashboard/screenshot%20of%20customer%20dashboard.JPG)
