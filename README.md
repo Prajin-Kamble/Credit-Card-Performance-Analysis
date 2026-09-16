@@ -1,4 +1,4 @@
-# Credit-Card-Performance-Analysis
+# Credit Card Performance Analysis
 ## 1. Problem Statement
 A leading financial services company offering multiple credit card products (Silver, Gold, Platinum, Blue) is facing challenges in understanding its customer behavior, revenue drivers, and transaction patterns across different segments.<br>
 Despite having large volumes of transaction and customer data, the organization lacks a centralized analytical system to answer critical business questions such as:<br>
